@@ -1,14 +1,6 @@
 {
   "name": "askancy/metacritic_api",
   "description": "A package that enables the use of metacritic api",
-  "keywords": [
-    "murdercode",
-    "laravel",
-    "laravel-shortcode-plus",
-    "shortcode",
-    "shortcodes",
-    "embed"
-  ],
   "homepage": "https://github.com/askancy/metacritic_api",
   "license": "MIT",   
 "require-dev": {
